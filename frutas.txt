@@ -1,4 +1,3 @@
-Manzana
 banana
 naranja
 fresa
