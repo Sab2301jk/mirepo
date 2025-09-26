@@ -1,8 +1,8 @@
-Tokio
-parís
-londres
+Berlín
+Berlín
 Madrid
 Roma
-Berlín
 Roma
-Berlín
+Tokio
+londres
+parís
